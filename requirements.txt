@@ -50,7 +50,7 @@ snowballstemmer==1.2.1
 Sphinx==1.6.6
 sphinxcontrib-websupport==1.0.1
 tox==2.9.1
-typing==3.6.2
+typing==3.6.4
 urllib3==1.22
 virtualenv==15.1.0
 watchdog==0.8.3
