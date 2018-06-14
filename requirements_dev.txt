@@ -42,7 +42,7 @@ python-dateutil==2.7.3
 pytest==3.5.1
 pytz==2018.4
 PyYAML==3.12
-requests==2.18.4
+requests==2.19.1
 setuptools_scm>=1.15.0
 six==1.11.0
 snowballstemmer==1.2.1
