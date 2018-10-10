@@ -53,4 +53,4 @@ typing==3.6.4
 urllib3==1.22
 virtualenv==16.0.0
 watchdog==0.8.3
-whichcraft==0.4.1
+whichcraft==0.5.2
