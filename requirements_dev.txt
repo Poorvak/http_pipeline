@@ -44,7 +44,7 @@ PyYAML==3.13
 pytz==2018.5
 requests==2.19.1
 setuptools_scm>=1.15.0
-six==1.11.0
+six==1.13.0
 snowballstemmer==1.2.1
 Sphinx==1.7.4
 sphinxcontrib-websupport==1.1.0
