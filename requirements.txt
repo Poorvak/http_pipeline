@@ -44,7 +44,7 @@ pytest-runner==4.2
 pytz==2018.4
 PyYAML==3.13
 pytz==2018.5
-requests==2.19.1
+requests==2.25.0
 setuptools_scm>=1.15.0
 six==1.11.0
 snowballstemmer==1.2.1
