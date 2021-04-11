@@ -4,7 +4,7 @@ arrow==0.12.1
 asn1crypto==0.24.0
 attrs==18.1.0
 Babel==2.6.0
-backports.functools-lru-cache==1.5
+backports.functools-lru-cache==1.6.4
 binaryornot==0.4.4
 bumpversion==0.5.3
 certifi==2018.4.16
