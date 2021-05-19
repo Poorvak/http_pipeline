@@ -52,5 +52,5 @@ tox==3.0.0
 typing==3.6.4
 urllib3==1.22
 virtualenv==16.0.0
-watchdog==0.8.3
+watchdog==2.1.2
 whichcraft==0.4.1
