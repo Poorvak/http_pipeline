@@ -9,7 +9,7 @@ binaryornot==0.4.4
 bumpversion==0.5.3
 certifi==2018.4.16
 cffi==1.11.5
-chardet==3.0.4
+chardet==5.0.0
 click==6.7
 configparser==3.5.0
 cookiecutter==1.6.0
