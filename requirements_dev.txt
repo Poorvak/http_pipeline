@@ -3,7 +3,7 @@ argh==0.26.2
 arrow==0.12.1
 asn1crypto==0.24.0
 attrs==18.1.0
-Babel==2.6.0
+Babel==2.12.1
 backports.functools-lru-cache==1.5
 binaryornot==0.4.4
 bumpversion==0.5.3
