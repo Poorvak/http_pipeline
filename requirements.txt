@@ -33,7 +33,7 @@ pathtools==0.1.2
 pluggy==0.6.0
 poyo==0.4.1
 py==1.5.4
-pyasn1==0.4.2
+pyasn1==0.5.0
 pycodestyle==2.4.0
 pycparser==2.18
 pyflakes==2.0.0
