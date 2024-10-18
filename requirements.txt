@@ -53,6 +53,6 @@ sphinxcontrib-websupport==1.1.0
 tox==3.0.0
 typing==3.6.4
 urllib3==1.22
-virtualenv==16.0.0
+virtualenv==20.27.0
 watchdog==0.8.3
 whichcraft==0.4.1
